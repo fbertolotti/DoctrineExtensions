@@ -364,7 +364,7 @@ The result after flush will generate the food tree:
 ```
 
 ## Tree Repositories
-To add tree funtionalities and methods to your repository you can use traits `NestedTreeRepository`, `MaterializedPathRepository` or `ClosureTreeRepository` like below:
+To add tree functionalities and methods to your repository you can use traits `NestedTreeRepository`, `MaterializedPathRepository` or `ClosureTreeRepository` like below:
 
 ```php
 namespace YourNamespace\Repository;
